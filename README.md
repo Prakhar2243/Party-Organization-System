@@ -1,4 +1,4 @@
-# Party
+# Party Organization System
 In this project we will provide a web-based platform to host, organize a party and send or receive
 invitations as per the situation. This project is all about to reduce the human efforts in organizing
 any party event. In real life it takes only 8-10 days just to prepare any outline related to the party.
